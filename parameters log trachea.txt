@@ -1,0 +1,18 @@
+trachea Parameters Red Channel 
+Average Threshold: 0.165040 
+  Individual Thresholds: 
+  0.188741 
+  0.188741 
+  0.204305 
+  0.144416 
+  0.146959 
+  0.117080 
+trachea Parameters Green Channel 
+Average Threshold: 0.125189 
+  Individual Thresholds: 
+  0.126486 
+  0.122595 
+  0.122595 
+  0.130377 
+  0.126486 
+  0.122595 
