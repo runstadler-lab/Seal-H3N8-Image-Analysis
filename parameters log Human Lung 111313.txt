@@ -1,0 +1,18 @@
+Human Lung 111313 Parameters Red Channel 
+Average Threshold: 41.000000 
+  Individual Thresholds: 
+  59.000000 
+  36.000000 
+  47.000000 
+  57.000000 
+  26.000000 
+  26.000000 
+Human Lung 111313 Parameters Green Channel 
+Average Threshold: 88.000000 
+  Individual Thresholds: 
+  77.000000 
+  90.000000 
+  86.000000 
+  93.000000 
+  92.000000 
+  90.000000 

@@ -1,0 +1,16 @@
+Human Trachea 100814 Parameters Red Channel 
+Average Threshold: 55.000000 
+  Individual Thresholds: 
+  29.000000 
+  79.000000 
+  63.000000 
+  66.000000 
+  41.000000 
+Human Trachea 100814 Parameters Green Channel 
+Average Threshold: 71.000000 
+  Individual Thresholds: 
+  63.000000 
+  74.000000 
+  80.000000 
+  68.000000 
+  74.000000 

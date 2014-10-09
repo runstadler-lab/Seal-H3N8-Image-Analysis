@@ -1,1 +1,19 @@
-,Filename,Red-Green Overlap,Sample or Control,Tissue,human,,0,HH3_trachea_111313_1.png,59375,HH3,trachea,83694.16667,,1,HH3_trachea_111313_3.png,62935,HH3,trachea,,,2,HH3_trachea_111313_4.png,54607,HH3,trachea,,,3,HH3_trachea_111313_5.png,126582,HH3,trachea,,,4,HH3_trachea_111313_6.png,144459,HH3,trachea,,,5,HH3_trachea_111313_7.png,54207,HH3,trachea,,,6,Neg_trachea_111313_2.png,840,Neg,trachea,,,7,Neg_trachea_111313_3.png,2758,Neg,trachea,,,8,Neg_trachea_111313_4.png,2546,Neg,trachea,,,9,Neg_trachea_111313_5.png,0,Neg,trachea,,,10,Neg_trachea_111313_6.png,3253,Neg,trachea,,,11,Neg_trachea_111313_7.png,0,Neg,trachea,,,12,Neg_trachea_111313_8.png,0,Neg,trachea,,,13,Neg_trachea_111313_9.png,117,Neg,trachea,seal,,human/seal14,SSH3_40_trachea_111313_1.png,30325,SSH3,trachea,12544.69231,,6.67167951315,SSH3_40_trachea_111313_13.png,3722,SSH3,trachea,,,16,SSH3_40_trachea_111313_14.png,201,SSH3,trachea,,,17,SSH3_40_trachea_111313_15.png,3957,SSH3,trachea,,,18,SSH3_40_trachea_111313_16.png,4137,SSH3,trachea,,,19,SSH3_40_trachea_111313_17.png,22495,SSH3,trachea,,,20,SSH3_40_trachea_111313_2.png,22571,SSH3,trachea,,,21,SSH3_40_trachea_111313_3.png,20887,SSH3,trachea,,,22,SSH3_40_trachea_111313_4.png,13725,SSH3,trachea,,,23,SSH3_40_trachea_111313_5.png,11325,SSH3,trachea,,,24,SSH3_40_trachea_111313_6.png,8009,SSH3,trachea,,,25,SSH3_40_trachea_111313_7.png,10425,SSH3,trachea,,,26,SSH3_40_trachea_111313_8.png,11302,SSH3,trachea,,,
+,Filename,Red-Green Overlap,Sample or Control,Tissue
+0,Human/Human Trachea/HH3_NoLPS_100814_10.tif,100702.0,Human/Human Trachea/HH3,Human Trachea
+1,Human/Human Trachea/HH3_NoLPS_100814_6.tif,125314.0,Human/Human Trachea/HH3,Human Trachea
+2,Human/Human Trachea/HH3_NoLPS_100814_7.tif,120059.0,Human/Human Trachea/HH3,Human Trachea
+3,Human/Human Trachea/HH3_NoLPS_100814_8.tif,111573.0,Human/Human Trachea/HH3,Human Trachea
+4,Human/Human Trachea/HH3_NoLPS_100814_9.tif,126993.0,Human/Human Trachea/HH3,Human Trachea
+5,Human/Ferret Trachea/HH3_fer_trachea_100814_1.tif,25547.0,Human/Ferret Trachea/HH3,Human Trachea
+6,Human/Ferret Trachea/HH3_fer_trachea_100814_2.tif,37489.0,Human/Ferret Trachea/HH3,Human Trachea
+7,Human/Ferret Trachea/HH3_fer_trachea_100814_3.tif,0.0,Human/Ferret Trachea/HH3,Human Trachea
+8,Human/Ferret Trachea/HH3_fer_trachea_100814_4.tif,53724.0,Human/Ferret Trachea/HH3,Human Trachea
+9,Negative/Ferret Trachea/Neg_fer_trachea_100814_1.tif,0.0,Negative/Ferret Trachea/Neg,Human Trachea
+10,Negative/Ferret Trachea/Neg_fer_trachea_100814_2.tif,0.0,Negative/Ferret Trachea/Neg,Human Trachea
+11,Negative/Ferret Trachea/Neg_fer_trachea_100814_3.tif,0.0,Negative/Ferret Trachea/Neg,Human Trachea
+12,Negative/Ferret Trachea/Neg_fer_trachea_100814_5.tif,0.0,Negative/Ferret Trachea/Neg,Human Trachea
+13,Negative/Ferret Trachea/Neg_fer_trachea_100814_6.tif,0.0,Negative/Ferret Trachea/Neg,Human Trachea
+14,Seal/Ferret Trachea/SH3_fer_trachea_100814_1.tif,2924.0,Seal/Ferret Trachea/SH3,Human Trachea
+15,Seal/Ferret Trachea/SH3_fer_trachea_100814_3.tif,21392.0,Seal/Ferret Trachea/SH3,Human Trachea
+16,Seal/Ferret Trachea/SH3_fer_trachea_100814_4.tif,18826.0,Seal/Ferret Trachea/SH3,Human Trachea
+17,Seal/Ferret Trachea/SH3_fer_trachea_100814_5.tif,0.0,Seal/Ferret Trachea/SH3,Human Trachea

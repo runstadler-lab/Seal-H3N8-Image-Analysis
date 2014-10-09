@@ -85,6 +85,16 @@ def threshold_image(image, threshold=0):
 	return thresholded_image, thresh
 	#return thresholded_image, thresh
 
+def adapative_threshold(image, block_size=100):
+	"""
+	This method returns the adaptively-thresholded image.
+	"""
+
+	thresholded_image = threshold_adaptive(image, block_size)
+	imshow(thresholded_image)
+
+	return thresholded_image
+
 def entropy_image(image, disk_size):
 	"""
 	This function takes in a single-channel image and returns it's entropy 
@@ -102,6 +112,33 @@ def entropy_image(image, disk_size):
 	entropied = entropy(image, disk(disk_size))
 	imshow(entropied, cmap = plt.cm.jet)
 	return entropied
+
+def large_contiguous_regions(thresholded_image, min_area):
+	"""
+	NOTE: THIS FUNCTION IS SPECIALLY WRITTEN FOR TRACHEAL SECTIONS.
+
+	This function gets the largest contiguous region of an image, based on 
+	its labels.
+	"""
+
+	labelled_image = label(thresholded_image)
+
+	regions = np.zeros((np.shape(thresholded_image)[0], np.shape(thresholded_image)[1]))
+	maxarea = 0
+
+	for region in np.unique(labelled_image):
+		image_area = np.shape(labelled_image)[0] ** 2
+		
+		region_matrix = labelled_image == region
+		region_in_thresholded = np.logical_and(region_matrix, thresholded_image)
+		region_in_thresholded_area = np.sum(region_in_thresholded)
+
+		if region_in_thresholded_area > image_area * min_area:
+
+			regions = regions + region_in_thresholded
+
+	return regions		
+
 
 def find_overlap(image1, image2):
 	"""

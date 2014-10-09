@@ -1,0 +1,18 @@
+Human Trachea 111313 Parameters Red Channel 
+Average Threshold: 41.000000 
+  Individual Thresholds: 
+  48.000000 
+  48.000000 
+  52.000000 
+  36.000000 
+  37.000000 
+  30.000000 
+Human Trachea 111313 Parameters Green Channel 
+Average Threshold: 31.000000 
+  Individual Thresholds: 
+  32.000000 
+  31.000000 
+  31.000000 
+  33.000000 
+  32.000000 
+  31.000000 
